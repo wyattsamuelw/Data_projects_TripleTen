@@ -53,7 +53,7 @@ The dataset includes the following tables:
 ---
 
 ### **Included Files**
-- `shopify.xlsx`: Source dataset (not included in ZIP due to file size limits — 10MB max)
+- `shopify.xlsx`: Source dataset (not included in ZIP due to file size limits — 25MB max)
 - `1.1.jpg`: KPI Card – Total number of unique apps
 - `1.2.jpg`: Line Chart – Review count over time (lastmod date)
 - `1.3.jpg`: Scatterplot – Reviews count vs. average rating with interpretation
