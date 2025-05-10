@@ -63,7 +63,7 @@ This project evaluates restaurant performance on the Zomato platform as part of 
 ### Included Files  
 - **Report** (`zomato_report.pdf`)
 - **Decomposition Plan** (`decomposition_plan.pdf`)     
-- **README** (`README.txt`)  
+- **README** (`README.md`)  
 > The dashboard is uploaded on a Google Drive and can be accessed using the link included in the report.
 
 **Created by:** Sam Wyatt  
