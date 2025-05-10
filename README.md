@@ -13,5 +13,5 @@ This repository contains a collection of data analytics projects completed durin
 
 Each project folder contains:
 - The original data files (Excel, CSV, etc.).
-- A detailed analysis report (Excel, Power BI, or Python scripts).
+- A detailed analysis report (Excel, Power BI, or Tableau).
 - A README file explaining the project, methodology, and findings.
