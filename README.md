@@ -1,6 +1,6 @@
 # Data Projects - TripleTen Data Analytics Bootcamp
 
-This repository contains a collection of data analytics projects completed during the TripleTen Data Analytics Bootcamp. Each project showcases advanced data analysis skills using tools such as Excel, Power BI, SQL, and Python.
+This repository contains a collection of data analytics projects completed during the TripleTen Data Analytics Bootcamp. Each project showcases advanced data analysis skills using tools such as Excel, Power BI, and SQL.
 
 ### Table of Contents for Projects
 | Project Number | Title | Description |
