@@ -2,7 +2,6 @@
 
 This is a comprehensive analysis of Manhattan Airbnb listings, completed as part of the TripleTen Data Analytics Bootcamp. This project was designed to showcase advanced spreadsheet skills and provide insights for potential investors in the Manhattan vacation rental market.
 
-[<img src='https://via.placeholder.com/800x400?text=Manhattan+Vacation+Rental+Analysis'>]
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
